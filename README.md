@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-ospina
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning Linux, MicroPython, Embedded AI, stuff
-- 💞️ I’m looking to collaborate on open source projects
+- 😁 I’m looking to collaborate on open source projects
 - 📫 jd.ospina.m@outlook.com
 
 <!---
